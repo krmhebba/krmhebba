@@ -1,45 +1,51 @@
 # Hiba Karam
-**Élève Ingénieure en Informatique et Réseaux**
+**Élève Ingénieure en Informatique et Réseaux | Focus Data & Sécurité**
 
-Actuellement étudiante à l'EMSI Casablanca, mon objectif est de concevoir des solutions innovantes sécurisées.
+Future ingénieure formée à l'EMSI, je construis mon expertise à l'intersection de l'Intelligence Artificielle et de la Cybersécurité. Mon approche technique se distingue par une volonté de maîtriser la chaîne complète de développement : de la gestion bas niveau (C/Embarqué) jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées.
+
+Mon portfolio illustre cette rigueur : je privilégie la compréhension des algorithmes et l'optimisation des structures de données plutôt que l'utilisation passive de frameworks.
 
 ---
 
-## Stack Technique
+## Compétences Techniques
 
-| Domaine | Technologies |
+| Domaine | Technologies & Concepts |
 | :--- | :--- |
-| **Data & IA** | Python, LLM (GenAI) |
-| **Développement** | C, C++, JavaScript (ES6+), SQL |
-| **Web & Frameworks** | Flask, HTML5, CSS3 |
-| **Systèmes & Outils** | Arduino, Linux, Git, VS Code |
+| **Intelligence Artificielle** | Python, GenAI (LLM), Deep Learning, NLP |
+| **Sécurité & Système** | C, C++, Linux, Cryptographie appliquée, Gestion des accès |
+| **Web & Architecture** | Symfony 7, Flask, API REST, Architecture MVC |
+| **Algorithmique** | Structures de données complexes, Optimisation, Vanilla JS |
+| **Embarqué** | Arduino, Logique combinatoire |
 
 ---
 
-## Projets Phares
+## Projets Sélectionnés
 
-### 1. Prototype de Chatbot Bancaire (Stage)
-* **Technologies :** Python, Flask, HTML/CSS.
-* **Description :** Conception d'un agent conversationnel intelligent pour le secteur bancaire. Intégration d'IA générative pour automatiser les réponses clients et développement d'une interface web dédiée.
+### 1. AWB Chatbot - Assistant Bancaire IA
+* **Type :** Innovation & NLP (Stage).
+* **Stack :** Python, Flask, LLM.
+* **Le défi :** Création d'un agent conversationnel capable de traiter des demandes bancaires complexes. J'ai conçu une architecture asynchrone permettant d'interfacer un modèle de langage avec une interface web réactive, tout en gérant l'historique de session sécurisé.
 
-### 2. Porte Intelligente Sécurisée
-* **Technologies :** C++, Arduino.
-* **Description :** Système embarqué de contrôle d'accès. Utilisation de capteurs et d'actionneurs pour sécuriser une entrée physique via une logique programmée.
+### 2. Dear Future - Architecture Sécurisée
+* **Type :** Backend & Sécurité (Projet Symfony).
+* **Stack :** Symfony 7, PHP 8.2, MySQL.
+* **Le défi :** Concevoir un "coffre-fort numérique". La contrainte majeure était de garantir l'inviolabilité temporelle des données. J'ai implémenté des verrous logiques stricts au niveau des Contrôleurs et des Entités pour empêcher tout accès technique avant l'échéance définie.
 
-### 3. Application de Gestion Hospitalière
-* **Technologies :** Langage C, Algorithmique avancée.
-* **Description :** Logiciel optimisé pour la gestion des patients et des dossiers médicaux. Utilisation intensive de structures de données (listes chaînées, arbres) pour la performance.
+### 3. AfriCAN Manager - Performance & DOM
+* **Type :** Ingénierie Web (SPA).
+* **Stack :** JavaScript Natif (Vanilla), HTML5, CSS3.
+* **Le défi :** Construire une Single Page Application complète **sans aucun framework**. Ce projet démontre ma maîtrise du routage manuel, de la manipulation du DOM et de la persistance locale des données (LocalStorage) pour une gestion fluide de la compétition CAN 2025.
 
-### 4. Site Vitrine SDS
-* **Technologies :** Full Web (HTML/CSS/JS).
-* **Description :** Développement d'une interface responsive et professionnelle pour l'entreprise Souidis.
+### 4. Systèmes Critiques & Embarqués
+* **Gestion Hospitalière (C) :** Développement d'un noyau de gestion des urgences basé sur des structures de données dynamiques (files prioritaires) pour optimiser le triage des patients.
+* **Porte Intelligente (C++/Arduino) :** Réalisation d'un système de contrôle d'accès physique combinant capteurs matériels et logique de validation par code.
 
 ---
 
 ## Certifications
-* **Deep Learning :** Neural Networks and Deep Learning (DeepLearning.AI).
-* **Cybersécurité :** Cybersecurity Tools & Cyberattacks (IBM).
-* **IA Générative :** Generative AI (IBM).
+* **Deep Learning :** Neural Networks and Deep Learning (DeepLearning.AI)
+* **Sécurité :** Cybersecurity Tools & Cyberattacks (IBM)
+* **IA :** Generative AI (IBM)
 
 ---
 
