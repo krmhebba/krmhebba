@@ -3,7 +3,7 @@
 
 Future ingénieure formée à l'EMSI, je construis mon expertise à l'intersection de l'Intelligence Artificielle et de la Cybersécurité. Mon approche technique se distingue par une volonté de maîtriser la chaîne complète de développement : de la gestion bas niveau (C/Embarqué) jusqu'aux architectures d'IA générative, en passant par la conception d'applications web sécurisées.
 
-Mon portfolio illustre cette rigueur : je privilégie la compréhension des algorithmes et l'optimisation des structures de données plutôt que l'utilisation passive de frameworks.
+Je complète ma formation académique par des certifications internationales exigeantes (EPFL, DeepLearning.AI, IBM) pour rester à la pointe de l'innovation technologique.
 
 ---
 
@@ -11,11 +11,11 @@ Mon portfolio illustre cette rigueur : je privilégie la compréhension des algo
 
 | Domaine | Technologies & Concepts |
 | :--- | :--- |
-| **Intelligence Artificielle** | Python, GenAI (LLM), Deep Learning, NLP |
-| **Sécurité & Système** | C, C++, Linux, Cryptographie appliquée, Gestion des accès |
+| **Intelligence Artificielle** | Python (Data Structures), GenAI (LLM), Deep Learning, NLP |
+| **Sécurité & Système** | C, C++ (POO), Linux, Gestion des vulnérabilités, Cryptographie |
 | **Web & Architecture** | Symfony 7, Flask, API REST, Architecture MVC |
-| **Algorithmique** | Structures de données complexes, Optimisation, Vanilla JS |
-| **Embarqué** | Arduino, Logique combinatoire |
+| **Algorithmique** | Structures de données complexes, Optimisation, Vanilla JS, JSON |
+| **Gestion de Projet** | Méthodologie Agile, Planification, Autonomie |
 
 ---
 
@@ -42,13 +42,26 @@ Mon portfolio illustre cette rigueur : je privilégie la compréhension des algo
 
 ---
 
-## Certifications
-* **Deep Learning :** Neural Networks and Deep Learning (DeepLearning.AI)
-* **Sécurité :** Cybersecurity Tools & Cyberattacks (IBM)
-* **IA :** Generative AI (IBM)
+## Certifications & Formation Continue
+
+### Intelligence Artificielle & Data Science
+* **Neural Networks and Deep Learning** – DeepLearning.AI (Sept 2025)
+* **Generative AI: Introduction and Applications** – IBM (Sept 2025)
+* **Python Data Structures** – University of Michigan (Sept 2025)
+* **Programming for Everybody (Python)** – University of Michigan (Sept 2025)
+
+### Ingénierie Logicielle & Cybersécurité
+* **Introduction à la programmation orientée objet (C++)** – EPFL (Déc 2025)
+* **Introduction to Cybersecurity Tools & Cyberattacks** – IBM (Juil 2025)
+* **JavaScript, jQuery, and JSON** – University of Michigan (Jan 2026)
+
+### Gestion & Leadership
+* **Foundations of Project Management** – Google (Sept 2025)
+* **Certificat d’appréciation (Bénévolat Summer Camp)** – Career Center EMSI (Juil 2025)
 
 ---
 
 ## Contact
 * **LinkedIn :** www.linkedin.com/in/hiba-karam-b29ab7319
 * **Email :** hibakaram2k06@gmail.com
+
