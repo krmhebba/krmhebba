@@ -17,19 +17,29 @@ Rigoureuse et curieuse, je maîtrise la chaîne complète du développement : de
 
 ---
 
+## Formation
+
+**Diplôme d'Ingénieur d'État — Informatique et Réseaux**
+Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 – Juin 2028
+
+**Baccalauréat Sciences Physiques — Option Français**
+CPGE Lycée Mohamed V, Casablanca · Sep 2022 – Juin 2023
+
+---
+
 ## Expérience
 
 **Stagiaire Développeuse IA & Chatbot — Attijariwafa Bank** *(Sep 2025 · 1 mois)*
 Conception et développement d'un chatbot de A à Z en Python et Flask, intégrant un LLM et une interface web interactive. Initiation Agile au sein du Digital Center d'innovation.
+
+**Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
+Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
 **Tutrice — EMSI LEVEL UP** *(Juil 2025 – Présent)*
 Accompagnement personnalisé d'étudiants en algorithmique, POO et développement web. Conception d'exercices adaptés et préparation aux examens.
 
 **Ambassadrice — Career Center EMSI** *(Juil 2025 – Présent)*
 Organisation d'ateliers d'orientation et participation à des forums emploi. Promotion des événements et programmes du Career Center.
-
-**Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
-Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
 **Déléguée de classe — EMSI** *(Oct 2023 – Présent)*
 Représentation des étudiants auprès de l'administration et du corps enseignant.
@@ -45,12 +55,6 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | **Bases de données** | MySQL · SQL Server |
 | **Embarqué & Système** | C · C++ · Arduino · Linux |
 | **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
-
----
-
-## Soft Skills
-
-Communication & Pédagogie · Leadership · Travail d'équipe · Résolution de problèmes · Organisation & Rigueur · Curiosité & Autonomie
 
 ---
 
@@ -126,16 +130,6 @@ Gestion complète d'une agence de location : parc automobile, contrats, disponib
 | Programming for Everybody | University of Michigan | Sep 2025 |
 | Generative AI: Introduction and Applications | IBM | Sep 2025 |
 | Introduction to Cybersecurity Tools & Cyberattacks | IBM | Juil 2025 |
-
----
-
-## Formation
-
-**Diplôme d'Ingénieur d'État — Informatique et Réseaux**
-Ecole Marocaine des Sciences de l'Ingénieur (EMSI), Casablanca · Oct 2023 – Juin 2028
-
-**Baccalauréat Sciences Physiques — Option Français**
-CPGE Lycée Mohamed V, Casablanca · Sep 2022 – Juin 2023
 
 ---
 
