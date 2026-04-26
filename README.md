@@ -52,7 +52,7 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 | **IA & Data** | Python · Flask · Django · LLM · Deep Learning · IA Générative |
 | **Web & Architecture** | Symfony 7 · JavaScript · PHP · HTML/CSS · API REST · MVC |
 | **Bases de données** | MySQL · SQL Server |
-| **Embarqué & Système** | C · C++ · Arduino · Linux |
+| **Embarqué & Système** | C · C++ · Arduino · Unix |
 | **Outils & Méthodes** | Git · Agile/Scrum · StarUML · VS Code · POO |
 
 ---
