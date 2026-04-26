@@ -28,6 +28,7 @@ CPGE Lycée Mohamed V, Casablanca · Sep 2022 – Juin 2023
 ---
 
 ## Expérience
+
 **Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
 Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
@@ -77,6 +78,13 @@ Application web sécurisée avec verrouillage temporel actif des données côté
 > `Vanilla JS` `Chart.js` `JSON` `LocalStorage`
 
 SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps réel, CRUD complet et internationalisation FR/EN/AR avec gestion dynamique du RTL.
+
+---
+
+### Site Vitrine SDS — Souidis *(privé — projet client)*
+> `HTML5` `CSS3` `JavaScript` `Firebase`
+
+Site institutionnel et catalogue en ligne développé pour la société Souidis, distributeur d'outillage professionnel au Maroc. Système de devis en ligne, interface d'administration et suivi des commandes via Firebase Realtime Database. Design responsive mobile/desktop.
 
 ---
 
