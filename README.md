@@ -60,21 +60,21 @@ Représentation des étudiants auprès de l'administration et du corps enseignan
 
 ## Projets
 
-### [AWB Chatbot — Assistant Bancaire IA](https://github.com/krmhebba/chatbot-bancaire-awb)
+### [AWB Chatbot — Assistant Bancaire IA](https://github.com/hiba-karam/chatbot-bancaire-awb)
 > `Python` `Flask` `LLM` `HTML/CSS/JS`
 
 Chatbot intelligent développé en stage chez Attijariwafa Bank. Architecture asynchrone connectant un LLM à une interface web réactive avec gestion des sessions sécurisées et système de thèmes clair/sombre.
 
 ---
 
-### [Dear Future — Capsule Temporelle Numérique](https://github.com/krmhebba/dear-future-symfony)
+### [Dear Future — Capsule Temporelle Numérique](https://github.com/hiba-karam/dear-future-symfony)
 > `Symfony 7` `PHP 8.2` `MySQL` `MVC`
 
 Application web sécurisée avec verrouillage temporel actif des données côté serveur. Association de lettres digitales et cadeaux physiques. Algorithme "Smart Zoom" sur mesure pour navigation immersive dans un catalogue produit.
 
 ---
 
-### [AfriCAN Manager — Gestion CAN 2025](https://github.com/krmhebba/gestion-can-2025)
+### [AfriCAN Manager — Gestion CAN 2025](https://github.com/hiba-karam/gestion-can-2025)
 > `Vanilla JS` `Chart.js` `JSON` `LocalStorage`
 
 SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps réel, CRUD complet et internationalisation FR/EN/AR avec gestion dynamique du RTL.
@@ -88,35 +88,35 @@ Site institutionnel et catalogue en ligne développé pour la société Souidis,
 
 ---
 
-### [Gestion d'un Hôpital Intelligent](https://github.com/krmhebba/gestion-hospitaliere)
+### [Gestion d'un Hôpital Intelligent](https://github.com/hiba-karam/gestion-hospitaliere)
 > `C` `Algorithmes` `Structures de données`
 
 Noyau de triage médical basé sur des files de priorité, listes chaînées et piles pour la priorisation et le suivi des patients. Modélisation UML complète avec StarUML.
 
 ---
 
-### [Porte Intelligente Sécurisée](https://github.com/krmhebba/porte-intelligente-arduino)
+### [Porte Intelligente Sécurisée](https://github.com/hiba-karam/porte-intelligente-arduino)
 > `C++` `Arduino` `Systèmes embarqués`
 
 Système de contrôle d'accès physique intégrant clavier matriciel, capteur de mouvement, servomoteur et écran LCD avec machine à états et alarme sonore.
 
 ---
 
-### [Système de Gestion d'École Supérieure](https://github.com/krmhebba/gestion-ecole-superieure)
+### [Système de Gestion d'École Supérieure](https://github.com/hiba-karam/gestion-ecole-superieure)
 > `C` `Listes chaînées` `Fichiers`
 
 Application modulaire de gestion académique : étudiants, professeurs, lauréats et services. Persistance via fichiers CSV et journalisation des opérations.
 
 ---
 
-### [Additionneur BCD — Afficheur 7 Segments](https://github.com/krmhebba/additionneur-bcd-7segments)
+### [Additionneur BCD — Afficheur 7 Segments](https://github.com/hiba-karam/additionneur-bcd-7segments)
 > `AHDL` `Quartus II` `FPGA`
 
 Conception matérielle sur FPGA Altera Cyclone III : addition BCD avec décodage et affichage 7 segments. Validation par chronogrammes de simulation.
 
 ---
 
-### [Application de Location de Voitures](https://github.com/krmhebba/application-location-voiture)
+### [Application de Location de Voitures](https://github.com/hiba-karam/application-location-voiture)
 > `C` `Structures` `Fichiers`
 
 Gestion complète d'une agence de location : parc automobile, contrats, disponibilité temps réel, tri par prix et gestion des incidents.
