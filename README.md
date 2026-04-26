@@ -82,9 +82,9 @@ SPA complète en Zéro Framework : routage manuel, manipulation DOM, KPI temps r
 ---
 
 ### Site Vitrine SDS — Souidis *(privé — projet client)*
-> `HTML5` `CSS3` `JavaScript` `Firebase`
+> `HTML5` `CSS3` `JavaScript`
 
-Site institutionnel et catalogue en ligne développé pour la société Souidis, distributeur d'outillage professionnel au Maroc. Système de devis en ligne, interface d'administration et suivi des commandes via Firebase Realtime Database. Design responsive mobile/desktop.
+Site institutionnel et catalogue en ligne développé pour la société Souidis, distributeur d'outillage professionnel au Maroc. Système de devis en ligne, interface d'administration et suivi des commandes avec gestion des données en temps réel. Design responsive mobile/desktop.
 
 ---
 
